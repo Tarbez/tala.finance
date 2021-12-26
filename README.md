@@ -1,4 +1,4 @@
-# Tala Finance
+# Simple Staking & Swap
 
 An Ethereum blockchain DApp, built using [Truffle](https://www.trufflesuite.com/), [Web3](https://web3js.readthedocs.io/en/v1.4.0/), [React](https://reactjs.org/) and upgradable [OpenZeppelin](https://openzeppelin.com/)-based smart contracts
 
